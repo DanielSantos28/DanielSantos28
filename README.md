@@ -1,11 +1,7 @@
 ### Olá! Eu sou o Daniel ✌️
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&url=https://github.com/DanielSantos28/)](https://github.com/DanielSantos28)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/channel/UCwAa6VoM1GCg7n4s3u9FTAg/videos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&https://www.instagram.com/dx.028/)](https://www.instagram.com/dx.028/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
-)](https://www.twitch.tv/dx028)
+
 
 
 
